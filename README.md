@@ -45,6 +45,7 @@ By mastering these fundamentals in **pure JavaScript**, frameworks become easier
 
 ## Project Structure
 
+```bash
 runtime-lab-js/
 ├─ index.html
 ├─ src/
@@ -58,6 +59,8 @@ runtime-lab-js/
 │ │ └─ node.js // Node.js adapter (optional)
 │ └─ demo/
 │ └─ app.js // demo application using the core
+```
+
 The **core is runtime-agnostic** and can run in both browser and Node.js environments.
 
 ---
