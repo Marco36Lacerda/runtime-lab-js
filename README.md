@@ -124,4 +124,4 @@ AI does **not** write the project — it supports faster iteration, reflection, 
 
 ## Author
 
-This project is part of a focused effort to move from **junior-level mental models to senior-level system thinking**, emphasizing clarity, predictability, and explainability in JavaScript.
+This project is a part of a concerted effort to improve mental models of JavaScript, from a superficial understanding to a deep system-level understanding. The focus is on clarity, predictability, and explainability.
